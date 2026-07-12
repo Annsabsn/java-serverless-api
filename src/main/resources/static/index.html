@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Java Serverless API</title>
+</head>
+
+<body>
+
+    <h1>Java Serverless Application</h1>
+
+    <p id="message">Loading backend...</p>
+
+    <button onclick="callBackend()">Call Backend API</button>
+
+    <script>
+        async function callBackend() {
+            const response = await fetch("/hello");
+            const data = await response.json();
+
+            document.getElementById("message").innerText = data.message;
+        }
+    </script>
+
+</body>
+
+</html>
