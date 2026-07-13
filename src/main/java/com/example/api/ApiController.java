@@ -11,7 +11,7 @@ public class ApiController {
     @GetMapping("/hello")
     public Map<String, String> hello() {
         return Map.of(
-                "message", "Hello from Java Backend Version 2"
+                "message", "Hello from Java Backend Version 8"
         );
     }
 }
