@@ -63,16 +63,16 @@ java-serverless-api/
 │
 ├── docs/
 │   └── screenshots/
-│       ├── 01-local-api-response.png
-│       ├── 02-iam-roles-configuration.png
-│       ├── 03-codebuild-project.png
-│       ├── 04-codebuild-successful-build.png
-│       ├── 05-ecr-private-repository.png
-│       ├── 06-docker-images-in-ecr.png
-│       ├── 07-lambda-function-deployment.png
-│       ├── 08-codepipeline-execution.png
-│       ├── 09-codeconnections-github-integration.png
-│       ├── 10-api-gateway-configuration.png
+│       ├── 01-Local API Response (Version 1).png
+│       ├── 02-IAM Roles Configuration.png
+│       ├── 03-AWS CodeBuild Project.png
+│       ├── 04-CodeBuild Successful Build.png
+│       ├── 05-Amazon ECR Private Repository.png
+│       ├── 06-Docker Images in Amazon ECR.png
+│       ├── 07-AWS Lambda Function Deployment.png
+│       ├── 08-AWS CodePipeline Execution.png
+│       ├── 09-AWS CodeConnections (GitHub Integration).png
+│       ├── 10-Amazon API Gateway Configuration.png
 │       └── 11-architecture-diagram.png
 │
 ├── src/
