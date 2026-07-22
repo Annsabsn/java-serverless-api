@@ -200,16 +200,16 @@ REST API
 
 | # | Screenshot | Description |
 |---|------------|-------------|
-| 01 | ![Local API Response](docs/screenshots/01-Local API Response (Version 1).png) | Local API Response |
-| 02 | ![IAM Roles Configuration](docs/screenshots/02-iam-roles-configuration.png) | IAM Roles Configuration |
-| 03 | ![AWS CodeBuild Project](docs/screenshots/03-AWS CodeBuild Project.png) | AWS CodeBuild Project |
-| 04 | ![CodeBuild Successful Build](docs/screenshots/04-CodeBuild Successful Build.png) | CodeBuild Successful Build |
-| 05 | ![Amazon ECR Repository](docs/screenshots/05-Amazon ECR Private Repository.png) | Amazon ECR Private Repository |
-| 06 | ![Docker Images in ECR](docs/screenshots/06-Docker Images in Amazon ECR.png) | Docker Images in Amazon ECR |
-| 07 | ![Lambda Deployment](docs/screenshots/07-AWS Lambda Function Deployment.png) | AWS Lambda Function Deployment |
-| 08 | ![CodePipeline Execution](docs/screenshots/08-AWS CodePipeline Execution.png) | AWS CodePipeline Execution |
-| 09 | ![CodeConnections](docs/screenshots/09-AWS CodeConnections (GitHub Integration).png) | AWS CodeConnections (GitHub Integration) |
-| 10 | ![API Gateway](docs/screenshots/10-Amazon API Gateway Configuration.png) | Amazon API Gateway Configuration |
+| 01 | ![Local API Response](docs/screenshots/01-Local%20API%20Response%20%28Version%201%29.png) | Local API Response |
+| 02 | ![IAM Roles Configuration](docs/screenshots/02-IAM%20Roles%20Configuration.png) | IAM Roles Configuration |
+| 03 | ![AWS CodeBuild Project](docs/screenshots/03-AWS%20CodeBuild%20Project.png) | AWS CodeBuild Project |
+| 04 | ![CodeBuild Successful Build](docs/screenshots/04-CodeBuild%20Successful%20Build.png) | CodeBuild Successful Build |
+| 05 | ![Amazon ECR Repository](docs/screenshots/05-Amazon%20ECR%20Private%20Repository.png) | Amazon ECR Private Repository |
+| 06 | ![Docker Images in ECR](docs/screenshots/06-Docker%20Images%20in%20Amazon%20ECR.png) | Docker Images in Amazon ECR |
+| 07 | ![Lambda Deployment](docs/screenshots/07-AWS%20Lambda%20Function%20Deployment.png) | AWS Lambda Function Deployment |
+| 08 | ![CodePipeline Execution](docs/screenshots/08-AWS%20CodePipeline%20Execution.png) | AWS CodePipeline Execution |
+| 09 | ![CodeConnections](docs/screenshots/09-AWS%20CodeConnections%20%28GitHub%20Integration%29.png) | AWS CodeConnections (GitHub Integration) |
+| 10 | ![API Gateway](docs/screenshots/10-Amazon%20API%20Gateway%20Configuration.png) | Amazon API Gateway Configuration |
 | 11 | ![Architecture Diagram](docs/screenshots/11-architecture-diagram.png) | System Architecture Diagram |
 
 ---
